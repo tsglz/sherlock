@@ -9,16 +9,15 @@ Codolio
 DeviantArt
 Discord.bio
 Envato Forum
-Flipboard
 GeeksforGeeks
 Giphy
-HackerRank
 Hashnode
 Houzz
 Hubski
 LessWrong
 Minecraft
 Odysee
+PCGamer
 Patched
 Pornhub
 Rarible
@@ -41,7 +40,6 @@ dailykos
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
