@@ -2,12 +2,10 @@
 Airliners
 Apple Developer
 Apple Discussions
-Archive of Our Own
 Archive.org
 Bandcamp
 BreachSta.rs Forum
 Codolio
-DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -16,11 +14,9 @@ Hashnode
 Houzz
 Hubski
 LessWrong
-Minecraft
 Odysee
 PCGamer
 Patched
-Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -31,7 +27,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
