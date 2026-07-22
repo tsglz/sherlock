@@ -4,7 +4,9 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Carbonmade
 Codolio
+DEV Community
 DeviantArt
 Discord.bio
 Envato Forum
@@ -14,9 +16,9 @@ Hashnode
 Hubski
 LessWrong
 Odysee
+OurDJTalk
 PCGamer
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -34,9 +36,11 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
+eintracht
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
