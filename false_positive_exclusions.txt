@@ -4,9 +4,8 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Carbonmade
+Blogger
 Codolio
-DEV Community
 DeviantArt
 Discord.bio
 Envato Forum
@@ -16,9 +15,7 @@ Hashnode
 Hubski
 LessWrong
 Odysee
-OurDJTalk
 PCGamer
-Patched
 Rarible
 Realmeye
 Reddit
@@ -29,18 +26,16 @@ Shelf
 SlideShare
 Splice
 Spotify
+TikTok
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
