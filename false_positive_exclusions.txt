@@ -4,18 +4,21 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 Codolio
 DeviantArt
 Discord.bio
+Eintracht Frankfurt Forum
 Envato Forum
 GeeksforGeeks
 Giphy
+GitHub
 Hashnode
 Hubski
 LessWrong
 Odysee
 PCGamer
+Patched
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -26,9 +29,9 @@ Shelf
 SlideShare
 Splice
 Spotify
-TikTok
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
