@@ -4,7 +4,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Carbonmade
+Blogger
 Chatujme.cz
 Codolio
 DeviantArt
@@ -18,12 +18,11 @@ Houzz
 Hubski
 Instapaper
 LessWrong
+LiveJournal
 Minecraft
 Odysee
-OurDJTalk
 PCGamer
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -34,10 +33,8 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
