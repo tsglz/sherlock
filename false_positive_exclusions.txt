@@ -17,10 +17,11 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Minecraft
 Odysee
-OurDJTalk
 PCGamer
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -35,7 +36,6 @@ Spotify
 Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -47,3 +47,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
