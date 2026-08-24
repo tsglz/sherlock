@@ -3,12 +3,12 @@ APClips
 Airliners
 Apple Developer
 Apple Discussions
-Archive of Our Own
 Archive.org
 Bandcamp
+Blogger
+Carbonmade
 Chatujme.cz
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -19,7 +19,6 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-LiveJournal
 Odysee
 PCGamer
 Pornhub
@@ -34,7 +33,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
@@ -42,6 +40,7 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
+eintracht
 fixya
 hunting
 igromania
@@ -50,4 +49,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
