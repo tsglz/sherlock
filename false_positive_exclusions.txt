@@ -1,10 +1,11 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
+Championat
 Chatujme.cz
 Codolio
 DeviantArt
@@ -13,14 +14,13 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
-HackenProof (Hackers)
 Hashnode
 Houzz
 Hubski
 Instapaper
-Minecraft
 Odysee
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -32,10 +32,11 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
+Star Citizen
 Trovo
 TryHackMe
 Velomania
+Venmo
 Weblate
 YandexMusic
 authorSTREAM
@@ -48,3 +49,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
