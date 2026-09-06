@@ -14,16 +14,17 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+GitHub
 Hashnode
 Houzz
 Hubski
 Instapaper
-Minecraft
+Itch.io
 ObservableHQ
 Odysee
 PCGamer
 Pornhub
-Rajce.net
+Rarible
 Realmeye
 Reddit
 ReverbNation
@@ -50,3 +51,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
