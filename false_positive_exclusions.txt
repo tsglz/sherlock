@@ -6,12 +6,15 @@ Apple Discussions
 Archive.org
 Bandcamp
 Blogger
+BoardGameGeek
+CGTrader
 Championat
 Chatujme.cz
 ChaturBate
 Codolio
 DeviantArt
 Discord.bio
+Dribbble
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -19,7 +22,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-LiveJournal
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -51,4 +54,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
