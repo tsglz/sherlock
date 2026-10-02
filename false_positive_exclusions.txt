@@ -1,20 +1,19 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-BoardGameGeek
+Blogger
 CGTrader
+Carbonmade
 Championat
 Chatujme.cz
 ChaturBate
+Chess
 Codolio
-DEV Community
 DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -24,6 +23,7 @@ Houzz
 Hubski
 Instapaper
 Linktree
+LiveJournal
 Minecraft
 ObservableHQ
 Odysee
