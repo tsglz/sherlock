@@ -13,7 +13,7 @@ Codolio
 DeviantArt
 Discord.bio
 Envato Forum
-Flipboard
+GaiaOnline
 GeeksforGeeks
 Giphy
 HackerNews
@@ -22,7 +22,6 @@ Houzz
 Hubski
 Instapaper
 Linktree
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
