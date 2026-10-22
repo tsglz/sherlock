@@ -1,14 +1,13 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blipfoto
-CGTrader
-Carbonmade
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -22,6 +21,9 @@ Houzz
 Hubski
 Instapaper
 Linktree
+Minecraft
+NationStates Nation
+NationStates Region
 ObservableHQ
 Odysee
 PCGamer
@@ -43,7 +45,6 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
-furaffinity
 hunting
 interpals
 mercadolivre
