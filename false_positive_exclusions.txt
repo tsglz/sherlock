@@ -1,21 +1,19 @@
-APClips
 Airliners
 Apple Developer
+Apple Discussions
 Archive.org
 Championat
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
-Flipboard
 GaiaOnline
 GeeksforGeeks
-GitHub
 HackerNews
 Hashnode
 Hubski
 Instapaper
-Minecraft
+Itch.io
 ObservableHQ
 Odysee
 PCGamer
@@ -36,13 +34,12 @@ Vero
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 fixya
 hunting
+igromania
 interpals
 mercadolivre
 opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
