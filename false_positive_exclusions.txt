@@ -1,9 +1,7 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
 Championat
 Chatujme.cz
 Codolio
@@ -15,6 +13,7 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
+Linktree
 ObservableHQ
 Odysee
 PCGamer
@@ -35,7 +34,6 @@ Vero
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 fixya
 hunting
 igromania
