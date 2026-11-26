@@ -1,24 +1,23 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Chatujme.cz
 Codolio
+DeviantArt
 Discord.bio
-Dribbble
 GaiaOnline
 GeeksforGeeks
 HackerNews
 Hashnode
-Houzz
 Hubski
 Instapaper
+Itch.io
 Linktree
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -33,6 +32,7 @@ Trakt
 TryHackMe
 Velomania
 Vero
+Wikipedia
 YandexMusic
 authorSTREAM
 dailykos
@@ -44,4 +44,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-xHamster
